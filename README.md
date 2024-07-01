@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot Frontend Mentor Social links profile.png)
+![My Screenshot](Screenshot%20Frontend%20Mentor%20Social%20links%20profile.png)
 
 ### Links
 
