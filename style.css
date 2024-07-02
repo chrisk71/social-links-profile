@@ -25,7 +25,7 @@ body {
 }
 
 #links-profile-container {
-  margin: 5rem auto;
+  margin: 10rem auto;
   width: 384px;
   height: 600px;
   background-color: var(--dark-grey);
@@ -102,7 +102,7 @@ body {
   color: var(--white);
   font-size: 11px;
   text-align: center;
-  margin-top: -4rem;
+  margin-top: -9.5rem;
 }
 
 .attribution a {
